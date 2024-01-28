@@ -39,7 +39,7 @@ const props=defineProps({
                                 <td class="py-3 px-6">
                                     <div class="d-flex align-items-center">
                                         <img :src="topic.image" class="w-12 h-12 rounded-circle border border-primary me-2">
-                                        {{ topic.image }}
+                                        
                                     </div>
                                 </td>
                                 <td class="py-3 px-6">{{ topic.age }}</td>
